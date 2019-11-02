@@ -1,0 +1,2 @@
+# fingerprint-trening
+ jw
